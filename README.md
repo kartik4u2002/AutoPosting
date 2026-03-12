@@ -285,8 +285,8 @@ Status Updated in Database
 ## Database
 
 * PostgreSQL
-  or
-* MongoDB
+  <img width="1651" height="830" alt="Untitled" src="https://github.com/user-attachments/assets/9ec6c367-6426-4fd2-8a1d-8da135037b35" />
+
 
 ## Queue System
 
